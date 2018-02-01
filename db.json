@@ -1,11 +1,11 @@
 
 {
-  "crypto": [
+  "posts": [
     { "id": 1, "title": "BTC" },
     { "id": 2, "title": "ETH" },
     { "id": 3, "title": "XLM" }
   ],
-  "Teams": [
+  "comments": [
     { "id": 1, "body": "FCB", "postId": 1 },
     { "id": 2, "body": "RMD", "postId": 1 }
   ],
