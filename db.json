@@ -5,6 +5,12 @@
     { "id": 2, "title": "ETH" },
     { "id": 3, "title": "XLM" }
   ],
+  
+  "crazy-stories": [
+    { "id": 1, "title": "Fight Club" },
+    { "id": 2, "title": "Early Bird" },
+    { "id": 3, "title": "Two Stones" }
+  ],
   "comments": [
     { "id": 1, "body": "FCB", "postId": 1 },
     { "id": 2, "body": "RMD", "postId": 1 }
