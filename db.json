@@ -7,9 +7,9 @@
   ],
   
   "crazy-stories": [
-    { "id": 1, "title": "Fight Club" },
-    { "id": 2, "title": "Early Bird" },
-    { "id": 3, "title": "Two Stones" }
+    { "id": 1, "title": "Fight Club", "length" : "120" },
+    { "id": 2, "title": "Early Bird", "length" : "90" },
+    { "id": 3, "title": "Two Stones", "length" : "144" }
   ],
   "comments": [
     { "id": 1, "body": "FCB", "postId": 1 },
